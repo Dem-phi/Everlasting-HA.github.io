@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T15:12:20.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mob_2822SPXYHXwfxfGQ" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T15:13:22.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="lHKwQ8FuF9BnRq5ov9oj" version="17.1.2" type="github">
   <diagram id="yomELMWYeyq5N0NG1Ylf" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="dYPsJ9rliSCnSGCHFPgP-32" value="鱼眼相机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="210" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-36" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;定位&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="205" y="150" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

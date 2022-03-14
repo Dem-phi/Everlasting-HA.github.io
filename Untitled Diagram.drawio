@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T14:42:48.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="GosRS9ONs8AKkHhBSo1e" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T14:45:47.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="0IC1t0y-paaAnFWRneaq" version="17.1.2" type="github">
   <diagram id="yomELMWYeyq5N0NG1Ylf" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,9 @@
         <mxCell id="0zzU7V9C4Hx5fTkg0NLd-9" value="&lt;font color=&quot;#000000&quot;&gt;接收机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="530" y="100" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="0zzU7V9C4Hx5fTkg0NLd-10" target="dYPsJ9rliSCnSGCHFPgP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0zzU7V9C4Hx5fTkg0NLd-10" value="PX4mini" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="460" y="190" width="140" height="70" as="geometry" />
         </mxCell>
@@ -50,6 +53,15 @@
         </mxCell>
         <mxCell id="dYPsJ9rliSCnSGCHFPgP-1" value="&lt;font color=&quot;#000000&quot;&gt;接收机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="660" y="100" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="dYPsJ9rliSCnSGCHFPgP-4" target="dYPsJ9rliSCnSGCHFPgP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-4" value="&lt;font color=&quot;#000000&quot;&gt;四合一电调&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-5" value="&lt;font color=&quot;#000000&quot;&gt;动力系统&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

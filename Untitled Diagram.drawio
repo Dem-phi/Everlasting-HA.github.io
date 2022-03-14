@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T14:36:05.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Gu6PdzrjICSdQG5gDnlH" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T14:36:44.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="RS-GO-sr6_4zNHC0hkJS" version="17.1.2" type="github">
   <diagram id="yomELMWYeyq5N0NG1Ylf" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=#ffffff;dashed=1;strokeWidth=2;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="34" y="40" width="760" height="450" as="geometry" />
+        </mxCell>
         <mxCell id="0zzU7V9C4Hx5fTkg0NLd-1" value="DJI Manifold2-C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="230" y="190" width="140" height="70" as="geometry" />
         </mxCell>
@@ -15,11 +18,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-2" value="RealSense t265" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-2" value="&lt;font color=&quot;#000000&quot;&gt;RealSense t265&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="90" y="100" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=#ffffff;dashed=1;strokeWidth=2;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="760" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

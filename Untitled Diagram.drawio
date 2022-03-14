@@ -1,11 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T14:32:23.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="bg76JrE1086tv4NAyNSx" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T14:34:26.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LrD1yx2RlOiJsb-IqZ4z" version="17.1.2" type="github">
   <diagram id="yomELMWYeyq5N0NG1Ylf" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0zzU7V9C4Hx5fTkg0NLd-1" value="DJI Manifold2-C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="230" y="200" width="140" height="70" as="geometry" />
+          <mxGeometry x="230" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FFFFFF;strokeColor=#B9E0A5;" edge="1" parent="1" source="0zzU7V9C4Hx5fTkg0NLd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-2" value="RealSense t265" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

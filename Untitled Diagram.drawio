@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T14:41:18.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="060g3B15WRu7IAAqp4T8" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T14:42:40.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="54f3jfB_-HywiN640H97" version="17.1.2" type="github">
   <diagram id="yomELMWYeyq5N0NG1Ylf" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="0zzU7V9C4Hx5fTkg0NLd-1" value="DJI Manifold2-C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="230" y="190" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FFFFFF;strokeColor=#B9E0A5;" parent="1" source="0zzU7V9C4Hx5fTkg0NLd-2" edge="1">
+        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FFFFFF;strokeColor=#B9E0A5;strokeWidth=2;" parent="1" source="0zzU7V9C4Hx5fTkg0NLd-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="190" as="targetPoint" />
             <Array as="points">
@@ -18,11 +18,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-2" value="&lt;font color=&quot;#000000&quot;&gt;RealSense t265&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#f0a30a;strokeColor=#BD7000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="90" y="100" width="180" height="30" as="geometry" />
+        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-2" value="&lt;font color=&quot;#000000&quot;&gt;RealSense t265&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="120" y="100" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-9" value="&lt;font color=&quot;#000000&quot;&gt;RealSense t265&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#f0a30a;strokeColor=#BD7000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="70" y="190" width="130" height="30" as="geometry" />
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="0zzU7V9C4Hx5fTkg0NLd-9" target="0zzU7V9C4Hx5fTkg0NLd-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="180" />
+              <mxPoint x="570" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0zzU7V9C4Hx5fTkg0NLd-9" value="&lt;font color=&quot;#000000&quot;&gt;接收机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="530" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0zzU7V9C4Hx5fTkg0NLd-10" value="PX4mini" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="460" y="190" width="140" height="70" as="geometry" />
@@ -36,6 +44,12 @@
         </mxCell>
         <mxCell id="0zzU7V9C4Hx5fTkg0NLd-13" value="控制指令&lt;br&gt;&lt;br&gt;MAVROS" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=16;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="374" y="195" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="dYPsJ9rliSCnSGCHFPgP-1" target="0zzU7V9C4Hx5fTkg0NLd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-1" value="&lt;font color=&quot;#000000&quot;&gt;接收机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

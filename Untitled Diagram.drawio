@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T15:05:20.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="TxtSj3llV8gW-2C2YbhG" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T15:09:06.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="GllgU-yY2y06Yj2oEPFN" version="17.1.2" type="github">
   <diagram id="yomELMWYeyq5N0NG1Ylf" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,16 +87,29 @@
           <mxGeometry x="440" y="340" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYPsJ9rliSCnSGCHFPgP-16" value="&lt;font color=&quot;#000000&quot;&gt;RealSense&amp;nbsp; L515&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="290" width="180" height="30" as="geometry" />
+          <mxGeometry x="40" y="210" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="dYPsJ9rliSCnSGCHFPgP-17" target="dYPsJ9rliSCnSGCHFPgP-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dYPsJ9rliSCnSGCHFPgP-17" value="降压" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dYPsJ9rliSCnSGCHFPgP-20" value="DJI Manifold2-C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="170" y="370" width="140" height="40" as="geometry" />
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="dYPsJ9rliSCnSGCHFPgP-20" target="dYPsJ9rliSCnSGCHFPgP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-20" value="Raspberry Pi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="375" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dYPsJ9rliSCnSGCHFPgP-21" value="舵机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="195" y="450" width="90" height="30" as="geometry" />
+          <mxGeometry x="195" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYPsJ9rliSCnSGCHFPgP-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#000000;strokeColor=#0FF7FF;exitX=0.25;exitY=1;exitDx=0;exitDy=0;spacing=4;strokeWidth=3;" edge="1" parent="1" source="0zzU7V9C4Hx5fTkg0NLd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="310" as="sourcePoint" />
+            <mxPoint x="265" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

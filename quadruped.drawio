@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T14:00:12.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="nqIeah89KGD91wcjCBYz" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T14:01:19.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="UH9b18nE9CEJ5bmdSIvG" version="17.1.2" type="github">
   <diagram id="thlxId8DeGrzx8db2zMS" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,6 +131,9 @@
         <mxCell id="wj8Ox7MCc_gtGJZ60Wdk-60" value="MPC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="47.3" y="460" width="70.6" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wj8Ox7MCc_gtGJZ60Wdk-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="wj8Ox7MCc_gtGJZ60Wdk-62" target="wj8Ox7MCc_gtGJZ60Wdk-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wj8Ox7MCc_gtGJZ60Wdk-62" value="关节电机PD控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="387.3" y="460" width="170" height="30" as="geometry" />
         </mxCell>
@@ -169,6 +172,19 @@
         </mxCell>
         <mxCell id="wj8Ox7MCc_gtGJZ60Wdk-72" value="Kinematic model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="557.81" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wj8Ox7MCc_gtGJZ60Wdk-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="wj8Ox7MCc_gtGJZ60Wdk-76" target="wj8Ox7MCc_gtGJZ60Wdk-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wj8Ox7MCc_gtGJZ60Wdk-76" value="电机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="629" y="460" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wj8Ox7MCc_gtGJZ60Wdk-79" value="&lt;b&gt;编码器反馈&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="370" y="587.81" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

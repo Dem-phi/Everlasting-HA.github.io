@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T08:46:56.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="U8ui_cRctYC68GEcNga1" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T08:47:41.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vyFWAH9cA7mTEuTx8WxL" version="17.1.2" type="github">
   <diagram id="L7vYbVVbSHAJe7ujXDoz" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,6 +164,9 @@
         </mxCell>
         <mxCell id="n8H539WeJuEZshSObb_--81" value="&lt;b&gt;Hough变换+图像分割&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="62" y="270" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n8H539WeJuEZshSObb_--82" value="&lt;b style=&quot;font-size: 16px&quot;&gt;位姿飞行控制&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="376" y="209" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

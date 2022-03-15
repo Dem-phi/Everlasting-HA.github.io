@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T08:56:45.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_eo9B8MxnHFaGvM9_TBp" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T08:57:40.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="BJ9r4fzi1Jj7qUiLcKgd" version="17.1.2" type="github">
   <diagram id="L7vYbVVbSHAJe7ujXDoz" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,11 +33,11 @@
         </mxCell>
         <mxCell id="n8H539WeJuEZshSObb_--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n8H539WeJuEZshSObb_--95" target="n8H539WeJuEZshSObb_--27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="450" as="sourcePoint" />
+            <mxPoint x="540.57" y="393" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n8H539WeJuEZshSObb_--27" value="舵机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="500" y="495" width="90" height="30" as="geometry" />
+          <mxGeometry x="495.57" y="413" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8H539WeJuEZshSObb_--30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="n8H539WeJuEZshSObb_--31" target="n8H539WeJuEZshSObb_--2">
           <mxGeometry relative="1" as="geometry" />
@@ -155,17 +155,20 @@
         <mxCell id="n8H539WeJuEZshSObb_--91" value="&lt;b&gt;卡尔曼数据融合&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="90.99999999999999" y="80" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n8H539WeJuEZshSObb_--92" value="&lt;b&gt;误差较小&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="555" y="271" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="n8H539WeJuEZshSObb_--96" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="n8H539WeJuEZshSObb_--93" target="n8H539WeJuEZshSObb_--95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8H539WeJuEZshSObb_--93" value="/unload" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;horizontal=1;fontSize=16;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="715" y="400" width="93" height="30" as="geometry" />
+          <mxGeometry x="710.57" y="343" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8H539WeJuEZshSObb_--95" value="&lt;span style=&quot;&quot;&gt;Raspberry Pi&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="474" y="400" width="142" height="30" as="geometry" />
+          <mxGeometry x="469.57" y="343" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n8H539WeJuEZshSObb_--97" value="&lt;b&gt;USB通信&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="625.57" y="333" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n8H539WeJuEZshSObb_--98" value="&lt;b&gt;PWM控制&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="537.57" y="383" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

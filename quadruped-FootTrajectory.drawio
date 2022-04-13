@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T10:46:53.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="EJ9gars4lTqUiw7bNAhB" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T10:48:25.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="6Bvtm0rxFUZVJVs7smyP" version="17.1.3" type="github">
   <diagram id="sYIm-FBpVVB_H_eK_7hu" name="Page-1">
     <mxGraphModel dx="1865" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,6 +41,26 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="400" as="sourcePoint" />
             <mxPoint x="391.7900000000001" y="384.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyPY1-G5gIehnB2PB7NY-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kyPY1-G5gIehnB2PB7NY-52" target="kyPY1-G5gIehnB2PB7NY-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302.21000000000004" y="395" as="sourcePoint" />
+            <mxPoint x="430.6399999999999" y="395" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyPY1-G5gIehnB2PB7NY-56" value="&lt;b&gt;Bezier曲线&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="429.99999999999994" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyPY1-G5gIehnB2PB7NY-57" value="Legs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="479.32" y="600" width="63.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kyPY1-G5gIehnB2PB7NY-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kyPY1-G5gIehnB2PB7NY-23" target="kyPY1-G5gIehnB2PB7NY-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="521.21" y="410" as="sourcePoint" />
+            <mxPoint x="521.21" y="500" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>

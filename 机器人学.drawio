@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T13:49:54.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Zi0Glsr-xZzR6bllLd3I" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-21T13:52:40.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="DE4A04D18ht4y1hF4r7b" version="18.1.1" type="github">
   <diagram id="WXNsPVBCAV0WKDdDtreC" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,6 +10,9 @@
         <mxCell id="yqJR-jZOG5_7ClnB0Bpq-1" value="&lt;span style=&quot;font-size:12.0pt;font-family:等线;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;mso-bidi-font-style:italic&quot;&gt;上位机标定&lt;span lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;个码垛&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yqJR-jZOG5_7ClnB0Bpq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yqJR-jZOG5_7ClnB0Bpq-2" target="yqJR-jZOG5_7ClnB0Bpq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yqJR-jZOG5_7ClnB0Bpq-2" value="&lt;span style=&quot;font-size:12.0pt;font-family:等线;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;mso-bidi-font-style:italic&quot;&gt;根据&lt;span lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;个点的坐标，调用轨迹规划算法生成&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;段轨迹，并保存在&lt;span lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;个不同的&lt;span lang=&quot;EN-US&quot;&gt;txt&lt;/span&gt;文档&lt;span lang=&quot;EN-US&quot;&gt;stack01.txt&lt;/span&gt;、&lt;span lang=&quot;EN-US&quot;&gt;stack12.txt&lt;/span&gt;、&lt;span lang=&quot;EN-US&quot;&gt;stack23.txt&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="220" width="265" height="70" as="geometry" />
         </mxCell>
@@ -18,6 +21,23 @@
         </mxCell>
         <mxCell id="yqJR-jZOG5_7ClnB0Bpq-3" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;mso-bidi-font-style:italic&quot; lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:等线;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA;mso-bidi-font-style:italic&quot;&gt;个点的坐标储存在一个数组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqJR-jZOG5_7ClnB0Bpq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yqJR-jZOG5_7ClnB0Bpq-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqJR-jZOG5_7ClnB0Bpq-6" value="PPB.ReadFile" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yqJR-jZOG5_7ClnB0Bpq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="yqJR-jZOG5_7ClnB0Bpq-11" target="yqJR-jZOG5_7ClnB0Bpq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqJR-jZOG5_7ClnB0Bpq-11" value="PPB.J2StartPoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqJR-jZOG5_7ClnB0Bpq-12" value="PPB.Run" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
